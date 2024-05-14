@@ -16,20 +16,20 @@
 
 
 ### *Gerenciamento de Entrega*
-![Gerenciamento de Entrega](prints\GerenciamentoDeEntregas.png "Gerenciamento de Entrega")
+![Gerenciamento de Entrega](./prints/GerenciamentoDeEntregas.png "Gerenciamento de Entrega")
 #### Mostra o status atual de cada entrega.
 
 
 ### *Cadastro Do Entregador*
-![Cadastro de Entregador](prints\CadastroDeEntregador.png "Cadastro de Entregador")
+![Cadastro de Entregador](./prints/CadastroDeEntregador.png "Cadastro de Entregador")
 #### Serve para cadastrar novas entregas com nome do entregador e destino.
 
 
 ### *Menu de Despacho*
-![Despacho](prints\Despacho.png "Despacho")
+![Despacho](./prints/Despacho.png "Despacho")
 #### Mostra todos os veículos disponiveis.
 
 
 ### *Demonstração do sistema de Rota*
-![Rotas](prints\Rotas.png "Rotas")
+![Rotas](./prints/Rotas.png "Rotas")
 #### Mostra todos os pontos de entrega, otimizando o melhor caminho para diminuir o tempo de entrega.
