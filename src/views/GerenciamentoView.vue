@@ -24,12 +24,6 @@
             </div>
           </div>
           <div class="col-md"></div>
-  
-          <div class="col-md">
-            <div class="column">
-              <p class="text-inside">Rotas</p>
-            </div>
-          </div>
    
           <div class="col-md">
             <div class="column">
@@ -45,19 +39,19 @@
         </div>
         <div class="row ">
         
-          <div class="column-item col-md  ">
+          <div class="column-item col-md">
             <div class="">
               <p class="text-inside">#RI98</p>
             </div>
           </div>
        
-          <div class="column-item col-md  ">
+          <div class="column-item col-md">
             <div class="">
               <p class="text-inside">ROBERTO</p>
             </div>
           </div>
   
-          <div class="column-item col-md  ">
+          <div class="column-item col-md">
             <div class="">
               <p class="text-inside">SÃO PAULO</p>
             </div>
@@ -65,19 +59,14 @@
 
           <div class="column-item col-md "></div>
 
-          <div class="column-item col-md  ">
-            <div class="d-flex justify-content-center align-items-center">
-                <button class="btn btn-danger ">ROTAS</button>
-            </div>
-          </div>
 
-          <div class="column-item col-md  ">
+          <div class="column-item col-md">
             <div class="">
               <p class="text-inside">ENTREGUE</p>
             </div>
           </div>
 
-          <div class="column-item col-md  ">
+          <div class="column-item col-md">
             <div class="">
               <p class="text-inside">1 HORA DE ATRASO</p>
             </div>
@@ -85,7 +74,7 @@
         </div>
 
         <div class="row">
-          <div class="column-item col-md bg-secondary ">
+          <div class="column-item col-md bg-secondary">
             <div class="">
               <p class="text-inside">#RI42</p>
             </div>
@@ -103,12 +92,6 @@
           </div>
 
           <div class="column-item col-md bg-secondary"></div>
-          <div class="column-item col-md bg-secondary">
-            <div class="d-flex justify-content-center align-items-center">
-                <button class="btn btn-danger">ROTAS</button>
-            </div>
-          </div>
-
           <div class="column-item col-md bg-secondary ">
             <div class="">
               <p class="text-inside">ENTREGUE</p>
@@ -141,12 +124,6 @@
           </div>
 
           <div class="column-item col-md "></div>
-
-          <div class="column-item col-md  ">
-            <div class="d-flex justify-content-center align-items-center">
-                <button class="btn btn-danger">ROTAS</button>
-            </div>
-          </div>
 
           <div class="column-item col-md  ">
             <div class="">

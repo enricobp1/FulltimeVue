@@ -16,10 +16,7 @@ import { ref } from 'vue'
       <router-link style="font-size: 20px" class="nav-link" to="/despacho">Despacho</router-link>
     </li>
     <li class="nav-item">
-      <router-link style="font-size: 20px;" class="nav-link" to="/">Rotas</router-link>
-    </li>
-    <li class="nav-item">
-      <router-link style="font-size: 20px;" class="nav-link" to="/gerenciamento">Gerenciamento de entregas</router-link>
+      <router-link style="font-size: 20px;" class="nav-link" to="/">Gerenciamento de entregas</router-link>
     </li>
     <li class="nav-item">
       <router-link style="font-size: 20px;" class="nav-link" to="/registro" >Registro de indentificação</router-link>
