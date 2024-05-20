@@ -10,7 +10,7 @@
 
 ## Descrição do Projeto: 
 
- #### ***Projeto com proposito de otimizar entregas, com foco na capacidade dos veículos da frota, horários de entrega, necessidade de horas extras e verificação de horário de funcionamento dos estabelecimentos, de forma a melhorar a logística da empresa.***
+ #### ***Projeto com proposito de otimizar entregas, com foco na capacidade dos veículos da frota, horários de entrega e verificação de horário de funcionamento dos estabelecimentos, de forma a melhorar a logística da empresa.***
 
 ## Imagens: 
 
