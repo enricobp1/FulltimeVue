@@ -21,7 +21,7 @@
 
 
 ### *Cadastro Do Entregador*
-![Cadastro de Entregador](./prints/CadastroDeEntregador.png "Cadastro de Entregador")
+![Cadastro de Entregador](./prints/RegistroDeEntregador.png "Cadastro de Entregador")
 #### Serve para cadastrar novas entregas com nome do entregador e destino.
 
 
