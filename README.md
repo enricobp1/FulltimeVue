@@ -4,8 +4,8 @@
 
 ### Membros do Grupo
 * Enrico Bernardes Perin - RA: 1959795
-* Gabriel Medina Garcia - RA: 1975483
 * Gabriel de Oliveira Mendes - RA: 1960453 
+* Gabriel Medina Garcia - RA: 1975483
 * João Pedro Almeida dos Santos - RA: 1962987
 
 ## Descrição do Projeto: 
