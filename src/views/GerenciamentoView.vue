@@ -4,7 +4,7 @@
         <img class="title shadow-lg" src="/src/assets/title-img3.png" alt="">
       </div>
   
-      <div class="container ">
+      <div class="container">
         <div class="row">
           <div class="col-md">
             <div class="column ">
@@ -23,7 +23,6 @@
               <p class="text-inside">Destino</p>
             </div>
           </div>
-          <div class="col-md"></div>
    
           <div class="col-md">
             <div class="column">
@@ -57,9 +56,6 @@
             </div>
           </div>
 
-          <div class="column-item col-md "></div>
-
-
           <div class="column-item col-md">
             <div class="">
               <p class="text-inside">ENTREGUE</p>
@@ -91,7 +87,6 @@
             </div>
           </div>
 
-          <div class="column-item col-md bg-secondary"></div>
           <div class="column-item col-md bg-secondary ">
             <div class="">
               <p class="text-inside">ENTREGUE</p>
@@ -122,8 +117,6 @@
               <p class="text-inside">RIO PRETO</p>
             </div>
           </div>
-
-          <div class="column-item col-md "></div>
 
           <div class="column-item col-md  ">
             <div class="">
@@ -173,6 +166,7 @@
   .container {
     background-color: #ED1C26;
     margin-top: 7%;
+    border-radius: 15px;
   }
   
   .title {
@@ -188,6 +182,7 @@
     font-size: 18px;
     text-align: center;
     margin: 0;
+    margin-bottom: 2%;
     color: white;
   }
   

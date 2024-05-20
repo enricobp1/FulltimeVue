@@ -1,5 +1,4 @@
 <script setup>
-import { ref } from 'vue'
 </script>
 
 <template>
@@ -12,14 +11,14 @@ import { ref } from 'vue'
     <li class="nav-img ">
       <img class="logo" src="\src\assets\Logo.png" alt="..." height="130px">
     </li>
-    <li class="nav-item ">
-      <router-link style="font-size: 20px" class="nav-link" to="/despacho">Despacho</router-link>
+    <li class="nav-item">
+      <router-link style="font-size: 20px" class="nav-link text-dark" to="/despacho">Despacho</router-link>
     </li>
     <li class="nav-item">
-      <router-link style="font-size: 20px;" class="nav-link" to="/">Gerenciamento de entregas</router-link>
+      <router-link style="font-size: 20px;" class="nav-link text-dark" to="/">Gerenciamento de entregas</router-link>
     </li>
     <li class="nav-item">
-      <router-link style="font-size: 20px;" class="nav-link" to="/registro" >Registro de indentificação</router-link>
+      <router-link style="font-size: 20px;" class="nav-link text-dark" to="/registro" >Registro de indentificação</router-link>
     </li>
   </ul>
 
