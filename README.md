@@ -29,7 +29,3 @@
 ![Despacho](./prints/Despacho.png "Despacho")
 #### Mostra todos os veículos disponiveis.
 
-
-### *Demonstração do sistema de Rota*
-![Rotas](./prints/Rotas.png "Rotas")
-#### Mostra todos os pontos de entrega, otimizando o melhor caminho para diminuir o tempo de entrega.
